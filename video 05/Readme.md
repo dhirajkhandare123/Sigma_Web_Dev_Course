@@ -12,7 +12,9 @@ width / height: Sets the dimensions (optional).
 
 Example:
 
+'''
 <img src="https://via.placeholder.com/150" alt="Placeholder Image" width="150" height="150">
+'''
 
 <hr>
 
@@ -28,7 +30,7 @@ Tables allow you to arrange data into rows and columns. They are built using a n
 <td>: Defines a table cell (standard data).
 
 Example:
-
+'''
 <table>
   <tr>
     <th>Language</th>
@@ -46,7 +48,7 @@ Example:
     <td>1996</td>
   </tr>
 </table>
-
+'''
 <hr>
 
 ### 3. Lists
@@ -56,20 +58,21 @@ A. Unordered List (<ul>)
 Used for items where the order doesn't matter. It uses bullet points.
 
 Example:
-
+'''
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
 </ul>
-
+'''
 B. Ordered List (<ol>)
 Used for items that follow a specific sequence. It uses numbers or letters.
 
 Example:
-
+'''
 <ol>
   <li>Open the editor</li>
   <li>Write the code</li>
   <li>Save as .html</li>
 </ol>
+'''
